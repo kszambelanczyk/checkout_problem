@@ -1,5 +1,3 @@
-require 'byebug'
-
 $LOAD_PATH << './lib'
 require 'checkout'
 require 'rule'
